@@ -1,5 +1,7 @@
 #!/bin/sh
 
+export ACME_DNS_EMAIL="$(printf '%s' "$ACME_DNS_EMAIL" | tr '@' '.')"
+
 if [ -n "$ACME_DNS_NS" ]; then
 export ACME_DNS_RECORDS='"'"${ACME_DNS_DOMAIN}. NS ${ACME_DNS_NS}."'"'",
 $ACME_DNS_RECORDS"
