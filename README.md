@@ -1,8 +1,8 @@
 # docker-acme-dns
 
 [![build](https://github.com/lhns/docker-acme-dns/actions/workflows/build.yml/badge.svg)](https://github.com/lhns/docker-acme-dns/actions/workflows/build.yml)
-[![Release Notes](https://img.shields.io/github/release/LolHens/restic-android.svg?maxAge=3600)](https://github.com/LolHens/restic-android/releases/latest)
-[![Apache License 2.0](https://img.shields.io/github/license/LolHens/docker-acme-dns.svg?maxAge=3600)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Release Notes](https://img.shields.io/github/release/lhns/docker-acme-dns.svg?maxAge=3600)](https://github.com/lhns/docker-acme-dns/releases/latest)
+[![Apache License 2.0](https://img.shields.io/github/license/lhns/docker-acme-dns.svg?maxAge=3600)](https://www.apache.org/licenses/LICENSE-2.0)
 
 See https://github.com/joohoi/acme-dns for details.
 
