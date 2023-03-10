@@ -1,9 +1,7 @@
 # docker-acme-dns
-[![Docker Build](https://img.shields.io/docker/cloud/build/lolhens/acme-dns)](https://hub.docker.com/r/lolhens/acme-dns/builds)
-[![Docker Stars](https://img.shields.io/docker/stars/lolhens/acme-dns)](https://hub.docker.com/r/lolhens/acme-dns)
-[![Docker Pulls](https://img.shields.io/docker/pulls/lolhens/acme-dns)](https://hub.docker.com/r/lolhens/acme-dns)
-[![Docker Image Size](https://img.shields.io/docker/image-size/lolhens/acme-dns)](https://hub.docker.com/r/lolhens/acme-dns)
-[![Docker Image Layers](https://img.shields.io/microbadger/layers/lolhens/acme-dns)](https://hub.docker.com/r/lolhens/acme-dns)
+
+[![build](https://github.com/lhns/docker-acme-dns/actions/workflows/build.yml/badge.svg)](https://github.com/lhns/docker-acme-dns/actions/workflows/build.yml)
+[![Release Notes](https://img.shields.io/github/release/LolHens/restic-android.svg?maxAge=3600)](https://github.com/LolHens/restic-android/releases/latest)
 [![Apache License 2.0](https://img.shields.io/github/license/LolHens/docker-acme-dns.svg?maxAge=3600)](https://www.apache.org/licenses/LICENSE-2.0)
 
 See https://github.com/joohoi/acme-dns for details.
